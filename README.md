@@ -33,7 +33,7 @@ Durante a rinha nós iremos adicionar outros testes :)
 
 ## Requisitos
 
-Você tem que fazer um PR, alterando o arquivo [PARTICIPANTS.md](PARTICIPANTS.md),
+Você tem que fazer um PR, alterando o arquivo [PARTICIPANTS.md](base_rinha/PARTICIPANTS.md),
 com uma nova linha e seu repositório. Talvez isso seja mudado depois (fique atento).
 
 Seu repositório terá que ter uma imagem no root do repositório, e buildaremos a imagem
@@ -90,4 +90,4 @@ Alguns recursos úteis para aprender como fazer seu próprio interpretador ou co
 
 Fique ligado que alguns vídeos e posts úteis chegarão em breve.
 
-[banner]: ./img/banner.png
+[banner]: base_rinha/img/banner.png
