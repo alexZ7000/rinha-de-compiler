@@ -50,10 +50,10 @@ class Token:
 
 
 class Lexer:
-    def __int__(self, text):
+    def __init__(self, text):
+        self.current_char = None
         self.text = text
         self.pos = -1
-        self.current_char = None
         self.advance()
 
     def advance(self):
