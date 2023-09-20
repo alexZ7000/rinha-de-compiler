@@ -2,6 +2,7 @@ import main
 
 while True:
     text = input('basic > ')
+    text = text.strip()
     result, error = main.run(text)
 
     if error:

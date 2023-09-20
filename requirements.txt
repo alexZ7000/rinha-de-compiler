@@ -1,0 +1,2 @@
+ujson==5.8.0
+llvmlite==0.40.1
